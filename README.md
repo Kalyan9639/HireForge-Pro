@@ -133,8 +133,7 @@ The system guarantees **explainability** for HR professionals by exposing the ex
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Kalyan9639/IIT-Delhi-AI-Projects.git
-cd "IIT-Delhi-AI-Projects/Python/Resume Screening Tool"
+git clone https://github.com/Kalyan9639/HireForge-Pro.git
 ```
 
 ### Step 2: Install Ollama and Required Model
@@ -187,7 +186,6 @@ uvicorn main:app --host 0.0.0.0 --port 8000 --workers 4
 
 - **Web Interface**: Open `http://localhost:8000` in your browser
 - **API Documentation**: `http://localhost:8000/docs` (Swagger UI)
-- **Alternative Docs**: `http://localhost:8000/redoc` (ReDoc)
 
 ### Quick Start Guide
 
@@ -344,10 +342,9 @@ We welcome contributions! Please follow these steps:
 
 ## 📞 Support & Contact
 
-- **Issues**: [GitHub Issues](https://github.com/Kalyan9639/IIT-Delhi-AI-Projects/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/Kalyan9639/IIT-Delhi-AI-Projects/discussions)
-- **Email**: support@hireforge.pro
-
+- **Issues**: [GitHub Issues](https://github.com/Kalyan9639/HireForge-Pro/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Kalyan9639/HireForge-Pro/discussions)
+  
 ---
 
 <div align="center">
